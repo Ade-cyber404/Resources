@@ -1,6 +1,6 @@
 # Cybersecurity Resources & Tools Checklist
 
-A curated collection of cybersecurity resources, Blue Team tools, threat intelligence feeds, and analysis utilities used for SOC operations, malware analysis, and DFIR investigations.
+A collection of cybersecurity resources, Blue Team tools, threat intelligence feeds, and analysis utilities used for SOC operations, malware analysis, and DFIR investigations.
 
 ---
 
