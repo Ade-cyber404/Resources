@@ -68,7 +68,7 @@ A collection of cybersecurity resources, Blue Team tools, threat intelligence fe
 
 ---
 
-### Learning Platforms & Hands-On Labs
+### Learning Platforms
 | Platform | Focus | Cost Model | Description |
 | :--- | :--- | :--- | :--- |
 | [pwn.college](https://pwn.college/) | Binary Exploitation, Linux & Systems | Free | Open-access computer security education platform (DoJO) by ASU. |
