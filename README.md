@@ -15,6 +15,7 @@ A collection of cybersecurity resources, Blue Team tools, threat intelligence fe
   - [Sandbox & Malware Analysis](#sandbox--malware-analysis)
 - [DFIR & Data Utilities](#-dfir--data-utilities)
 - [Quick Investigation Workflow](#-quick-investigation-workflow)
+- [Learning Platforms](#learning-platforms)
 
 ---
 
@@ -66,6 +67,16 @@ A collection of cybersecurity resources, Blue Team tools, threat intelligence fe
 * [ConvertCSV URL Extractor](https://www.convertcsv.com/url-extractor.htm) — Extract URLs from unstructured text files or data lists.
 
 ---
+
+### Learning Platforms & Hands-On Labs
+| Platform | Focus | Cost Model | Description |
+| :--- | :--- | :--- | :--- |
+| [pwn.college](https://pwn.college/) | Binary Exploitation, Linux & Systems | Free | Open-access computer security education platform (DoJO) by ASU. |
+| [PortSwigger Academy](https://portswigger.net/web-security) | Web App Security | Free | High-quality web application hacking labs from the makers of Burp Suite. |
+| [Hack The Box](https://www.hackthebox.com/) | Pentesting & Active Directory | Free / Paid | Realistic penetration testing machines and challenge paths. |
+| [CyberDefenders](https://cyberdefenders.org/) | Blue Team, DFIR & SOC | Free / Paid | Practical defensive cyber exercises focusing on artifact analysis. |
+| [OverTheWire](https://overthewire.org/wargames/) | Linux CLI & Core Fundamentals | Free | Interactive SSH-based wargames (Bandit) for Linux mastery. |
+| [picoCTF](https://picoctf.org/) | General CTF & Forensics | Free | Year-round educational CTF platform by Carnegie Mellon University. |
 
 ## Quick Investigation Workflow
 
